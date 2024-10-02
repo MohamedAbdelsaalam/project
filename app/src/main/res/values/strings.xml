@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Emergency</string>
+    <string name="child">Child</string>
+    <string name="fire">Fire</string>
+    <string name="police">Police</string>
+
+</resources>
