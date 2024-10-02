@@ -61,3 +61,4 @@ class MainActivity : AppCompatActivity() {
        binding.newsList.adapter = adapter
    }
 }
+//hello from khaled git hub account
